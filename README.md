@@ -1,4 +1,3 @@
-# atividade-curriculo
 
 <html>
     <head>
@@ -39,7 +38,6 @@
             </ul>
             <hr>
         </header>
-
         <header>
             <h3>EDUCAÇÃO</h3>
             <ul>
@@ -47,14 +45,11 @@
                 <li>[IFPA - TUCURUÍ - MANUTENÇÃO E SUPORTE EM INFORMÁTICA]</li>
             </ul>
             <hr>
-
-        </header>
-
+ </header>
         <header>
             <h3>COMUNICAÇÃO</h3>
             <p>Considero-me uma pessoa bem comunicativa no contexto de trabalho e gosto de trabalhar em equipe. </p>
             <hr>
-                 
         </header>
         <header>
             <h3>REFERÊNCIAS</h3>
@@ -63,7 +58,6 @@
                 <li>[IDEOVANDRO, Estagiário, Unifesspa, ideovandro@unifesspa.edu.br]</li>
                 <li>[ANDREY, Estagiário, Ifpa, andrey@ifpa.edu.br]</li>
             </ol>
-        </header>
-        
+        </header>     
     </body>
 </html>
